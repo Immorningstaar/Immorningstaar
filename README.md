@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer with a pragmatic approach, heavily focused on delivering functional Minimum Viable Products (MVPs). I specialize in building quality web and mobile applications, ensuring that every step of the development process adds real value to the final product.
+I am a Software Developer with a pragmatic approach, heavily focused on delivering functional Minimum Viable Products (MVPs). I primarily build web applications, but I also have hands-on experience developing cross-platform mobile solutions. My goal is to create efficient and useful software, ensuring that every step of the development process adds real value.
 
 
 ## 🌐 Socials:
