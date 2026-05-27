@@ -4,7 +4,11 @@
 
 I am a pragmatic Software Developer currently completing my degree in **Analyst Programming** in Chile. I am actively seeking a **Professional Internship (Práctica Profesional)** to apply my technical skills, contribute to a dynamic team, and successfully finalize my academic journey.
 
-
+## 🚀 Featured Projects
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Los Robles** | Clinical management portal for nursing featuring a secure login system and an administrative dashboard. | Django, Python, Bootstrap | [View Repository](#) |
+| **MIMS Chile** | Industrial services website with mobile-first design, interactive galleries, and EmailJS integration. | HTML/CSS, JavaScript | [Live Demo](https://www.mimschile.com) <br> |
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignacio-ja%C3%B1a-olivarez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ignacio.jana95@gmail.com) 
 
