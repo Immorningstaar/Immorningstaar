@@ -7,7 +7,7 @@
 
 I am a pragmatic Software Developer currently completing my degree in **Analyst Programming** in Chile. I am actively seeking a **Professional Internship (Práctica Profesional)** to apply my technical skills, contribute to a dynamic team, and successfully finalize my academic journey.
 
-## 🚀 Featured Projects
+## 🚀 Deployed Projects
 | Project | Description | Tech Stack | Links | 
 |---------|-------------|------------|-------| 
 | **MIMS Chile** | Industrial services website focused on user experience and performance.<br><br>**Key Features:**<ul><li>Contact form with company notification and client auto-reply via EmailJS, including frontend validation.</li><li>Fully responsive design across 3 breakpoints with an animated mobile overlay menu.</li><li>Scroll-triggered animations using IntersectionObserver.</li><li>Clear visual indicators for temporarily unavailable services.</li></ul> | HTML/CSS, JavaScript, EmailJS | [Live Demo](https://www.mimschile.com) <br> |
