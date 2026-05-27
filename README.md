@@ -7,10 +7,7 @@
 
 I am a pragmatic Software Developer currently completing my degree in **Analyst Programming** in Chile. I am actively seeking a **Professional Internship (Práctica Profesional)** to apply my technical skills, contribute to a dynamic team, and successfully finalize my academic journey.
 
-## 🚀 Deployed Projects
-| Project | Description | Tech Stack | Links | 
-|---------|-------------|------------|-------| 
-| **MIMS Chile** | Industrial services website focused on user experience and performance.<br><br>**Key Features:**<ul><li>Contact form with company notification and client auto-reply via EmailJS, including frontend validation.</li><li>Fully responsive design across 3 breakpoints with an animated mobile overlay menu.</li><li>Scroll-triggered animations using IntersectionObserver.</li><li>Clear visual indicators for temporarily unavailable services.</li></ul> | HTML/CSS, JavaScript, EmailJS | [Live Demo](https://www.mimschile.com) <br> |
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignacio-ja%C3%B1a-olivarez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ignacio.jana95@gmail.com) 
 
@@ -21,3 +18,8 @@ I am a pragmatic Software Developer currently completing my degree in **Analyst 
 ![](https://github-readme-stats.shion.dev/api?username=Immorningstaar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1)<br/>
 ![](https://streak-stats.demolab.com/?user=Immorningstaar&theme=dark&hide_border=false&v=1)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Immorningstaar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)
+
+## 🚀 Deployed Projects
+| Project | Description | Tech Stack | Links | 
+|---------|-------------|------------|-------| 
+| **MIMS Chile** | Industrial services website focused on user experience and performance.<br><br>**Key Features:**<ul><li>Contact form with company notification and client auto-reply via EmailJS, including frontend validation.</li><li>Fully responsive design across 3 breakpoints with an animated mobile overlay menu.</li><li>Scroll-triggered animations using IntersectionObserver.</li><li>Clear visual indicators for temporarily unavailable services.</li></ul> | HTML/CSS, JavaScript, EmailJS | [Live Demo](https://www.mimschile.com) <br> |
