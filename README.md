@@ -1,6 +1,9 @@
 
-## Hi, I'm Ignacio! 
-**Software Developer | Analyst Programming Student**
+<div align="center">
+  <h1> Hi, I'm Ignacio!</h1>
+  <h3><b>Software Developer | Analyst Programming Student</b></h3>
+</div>
+<br>
 
 I am a pragmatic Software Developer currently completing my degree in **Analyst Programming** in Chile. I am actively seeking a **Professional Internship (Práctica Profesional)** to apply my technical skills, contribute to a dynamic team, and successfully finalize my academic journey.
 
