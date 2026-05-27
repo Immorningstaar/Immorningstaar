@@ -7,8 +7,7 @@ I am a pragmatic Software Developer currently completing my degree in **Analyst 
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack | Links | Funcionalidades |
 |---------|-------------|------------|-------| ----------------|
-| **MIMS Chile** | Industrial services website with mobile-first design, interactive galleries, and EmailJS integration. | HTML/CSS, JavaScript | [Live Demo](https://www.mimschile.com) <br> | 
-- Formulario de contacto con notificación a empresa y auto-respuesta al cliente
+| **MIMS Chile** | Industrial services website with mobile-first design, interactive galleries, and EmailJS integration. | HTML/CSS, JavaScript | [Live Demo](https://www.mimschile.com) <br> | - Formulario de contacto con notificación a empresa y auto-respuesta al cliente
 - Diseño responsive (3 breakpoints)
 - Menú overlay animado en móviles
 - Animaciones con IntersectionObserver
