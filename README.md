@@ -14,4 +14,4 @@ I am a Software Developer with a pragmatic approach, heavily focused on deliveri
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Immorningstaar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Immorningstaar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=Immorningstaar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
