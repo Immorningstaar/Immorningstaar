@@ -7,7 +7,19 @@
 
 I am a pragmatic Software Developer currently completing my degree in **Analyst Programming** in Chile. I am actively seeking a **Professional Internship (Práctica Profesional)** to apply my technical skills, contribute to a dynamic team, and successfully finalize my academic journey.
 
-## 🚀 Deployed Projects
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Los Robles** | Nursing home medication administration system designed for clinical staff to track and manage dosages.<br><br>**Key Features:**<ul><li>Role-based access control (Admin, Nurse, TENS) with dual-layer Chilean ID (RUT) validation.</li><li>Real-time nursing dashboard with automated late-dose detection and medication stock control.</li><li>Comprehensive reporting with filtered CSV exports and soft-delete functionality for resident data.</li><li>Robust backend reliability ensured by 102 passing Django TestCases.</li></ul> | Django, Python, Bootstrap, SQLite | [View Repository](https://github.com/Immorningstaar/los-robles) |
+| **Clínica Bosque Verde** | Comprehensive clinical management web system handling appointments, electronic medical records, online payments, and admissions.<br><br>**Key Features:**<ul><li>Real-time appointment scheduling with chronological validation via AJAX.</li><li>Secure authentication system with 3 role levels (Admin, Patient, Professional).</li><li>Integration with simulated WebPay for online payments and boleta generation.</li><li>Automated medical budget calculation based on patient insurance (FONASA/Isapre).</li></ul> | Django, Python, Bootstrap, SQLite/Oracle | [View Repository](https://github.com/Immorningstaar/clinica-bosque-verde) |
+| **Raconto App Móvil** | Cross-platform mobile application for restaurant inventory management with offline capabilities and photographic evidence logging.<br><br>**Key Features:**<ul><li>Full inventory CRUD with role-based access control (Admin, Bar, Kitchen, Waitstaff).</li><li>Native device integration using Capacitor for camera access and local SQLite storage.</li><li>Integration with the OpenFoodFacts API for global product search.</li><li>Admin dashboard with live statistics and Excel data export via SheetJS.</li></ul> | Angular, Ionic, Capacitor, SQLite | [View Repository](https://github.com/Immorningstaar/raconto-appmovil) |
+| **MIMS Chile** | Industrial services website focused on user experience and performance.<br><br>**Key Features:**<ul><li>Contact form with company notification and client auto-reply via EmailJS, including frontend validation.</li><li>Fully responsive design across 3 breakpoints with an animated mobile overlay menu.</li><li>Scroll-triggered animations using IntersectionObserver.</li><li>Clear visual indicators for temporarily unavailable services.</li></ul> | HTML/CSS, JavaScript, EmailJS | [Live Demo](https://www.mimschile.com) <br> [View Repository](https://github.com/psyconach/MIMS) |
+[!NOTE]
+> Los 3 primeros proyecto fue desarrollado con fines académicos y de aprendizaje.
+[!NOTE]
+> MIMS esta desplegado en mi otra cuenta de git.
+##  Deployed Projects
 | Project | Description | Tech Stack | Links | 
 |---------|-------------|------------|-------| 
 | **MIMS Chile** | Industrial services website focused on user experience and performance.<br><br>**Key Features:**<ul><li>Contact form with company notification and client auto-reply via EmailJS, including frontend validation.</li><li>Fully responsive design across 3 breakpoints with an animated mobile overlay menu.</li><li>Scroll-triggered animations using IntersectionObserver.</li><li>Clear visual indicators for temporarily unavailable services.</li></ul> | HTML/CSS, JavaScript, EmailJS | [Live Demo](https://www.mimschile.com) <br> |
