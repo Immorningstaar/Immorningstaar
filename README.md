@@ -15,14 +15,12 @@ I am a pragmatic Software Developer currently completing my degree in **Analyst 
 | **Clínica Bosque Verde** | Comprehensive clinical management web system handling appointments, electronic medical records, online payments, and admissions.<br><br>**Key Features:**<ul><li>Real-time appointment scheduling with chronological validation via AJAX.</li><li>Secure authentication system with 3 role levels (Admin, Patient, Professional).</li><li>Integration with simulated WebPay for online payments and boleta generation.</li><li>Automated medical budget calculation based on patient insurance (FONASA/Isapre).</li></ul> | Django, Python, Bootstrap, SQLite/Oracle | [View Repository](https://github.com/Immorningstaar/clinica-bosque-verde) |
 | **Raconto App Móvil** | Cross-platform mobile application for restaurant inventory management with offline capabilities and photographic evidence logging.<br><br>**Key Features:**<ul><li>Full inventory CRUD with role-based access control (Admin, Bar, Kitchen, Waitstaff).</li><li>Native device integration using Capacitor for camera access and local SQLite storage.</li><li>Integration with the OpenFoodFacts API for global product search.</li><li>Admin dashboard with live statistics and Excel data export via SheetJS.</li></ul> | Angular, Ionic, Capacitor, SQLite | [View Repository](https://github.com/Immorningstaar/raconto-appmovil) |
 | **MIMS Chile** | Industrial services website focused on user experience and performance.<br><br>**Key Features:**<ul><li>Contact form with company notification and client auto-reply via EmailJS, including frontend validation.</li><li>Fully responsive design across 3 breakpoints with an animated mobile overlay menu.</li><li>Scroll-triggered animations using IntersectionObserver.</li><li>Clear visual indicators for temporarily unavailable services.</li></ul> | HTML/CSS, JavaScript, EmailJS | [Live Demo](https://www.mimschile.com) <br> [View Repository](https://github.com/psyconach/MIMS) |
-[!NOTE]
-> Los 3 primeros proyecto fue desarrollado con fines académicos y de aprendizaje.
-[!NOTE]
-> MIMS esta desplegado en mi otra cuenta de git.
-##  Deployed Projects
-| Project | Description | Tech Stack | Links | 
-|---------|-------------|------------|-------| 
-| **MIMS Chile** | Industrial services website focused on user experience and performance.<br><br>**Key Features:**<ul><li>Contact form with company notification and client auto-reply via EmailJS, including frontend validation.</li><li>Fully responsive design across 3 breakpoints with an animated mobile overlay menu.</li><li>Scroll-triggered animations using IntersectionObserver.</li><li>Clear visual indicators for temporarily unavailable services.</li></ul> | HTML/CSS, JavaScript, EmailJS | [Live Demo](https://www.mimschile.com) <br> |
+
+> [!NOTE]
+> The first three projects were developed for academic and learning purposes.
+
+> [!NOTE]
+> MIMS is deployed and maintained from a different GitHub account.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignacio-ja%C3%B1a-olivarez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ignacio.jana95@gmail.com) 
