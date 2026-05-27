@@ -1,5 +1,8 @@
-# 💫 About Me:
-I am a Software Developer with a pragmatic approach, heavily focused on delivering functional Minimum Viable Products (MVPs). I primarily build web applications, but I also have hands-on experience developing cross-platform mobile solutions. My goal is to create efficient and useful software, ensuring that every step of the development process adds real value.
+
+Hi, I'm Ignacio! 
+**Software Developer | Analyst Programming Student**
+
+I am a pragmatic Software Developer currently completing my degree in **Analyst Programming** in Chile. I am actively seeking a **Professional Internship (Práctica Profesional)** to apply my technical skills, contribute to a dynamic team, and successfully finalize my academic journey.
 
 
 ## 🌐 Socials:
